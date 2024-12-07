@@ -5,6 +5,8 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+.gitignore
+target
 *.iws
 *.iml
 *.ipr
